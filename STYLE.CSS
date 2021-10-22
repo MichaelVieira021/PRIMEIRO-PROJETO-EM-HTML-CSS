@@ -1,6 +1,6 @@
 
 #title{
-    background-color: slategray;
+    background-color: rgba(112, 128, 144, 0.452);
     text-align: center;
     color: snow;
 }
@@ -28,7 +28,7 @@
 }
 
 body{
-    background-image:url(https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_960_720.jpg)
+    background-image:url(img/Background.jpg);
     
 }
 
