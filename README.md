@@ -6,5 +6,7 @@
 
 ​    
 
-<center><img src="img\expansion.gif"></center>
+<p align="center"><img src="img\expansion.gif" alt="expansion"></p>
+
+
 
