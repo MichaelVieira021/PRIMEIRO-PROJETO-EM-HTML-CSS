@@ -6,5 +6,5 @@
 
 ​    
 
-<img src="img\expansion.gif">
+<center><img src="img\expansion.gif"></center>
 
